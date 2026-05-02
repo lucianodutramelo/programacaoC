@@ -1,0 +1,53 @@
+Ctrl+S 			Save
+Ctrl+` 			Show integrated terminal
+Ctrl+B          Toggle Sidebar visibility
+Ctrl+ = / -     Zoom in/out
+Ctrl+K Z        Zen Mode (Esc Esc to exit)
+
+F9              DEBUG: Toggle breakpoint
+F5              DEBUG: Start/Continue
+
+Ctrl+L 			Select current line
+Ctrl+X 			Cut line (empty selection)
+Ctrl+C 			Copy line (empty selection)
+
+Alt+ ↑ / ↓ 		Move line up/down
+Shift+Alt + ↓ / ↑ 	Copy line up/down
+
+
+Alt+Click 		Insert cursor
+
+Shift+Alt+ → 		Expand selection
+Shift+Alt+ ← 		Shrink selection
+Shift+Alt+ (drag mouse)	Column (box) selection
+ 
+
+Ctrl+´` / {[ 		Indent/outdent line
+Ctrl+/ 			Toggle line comment
+
+
+Ctrl+Shift+K 		Delete line
+Ctrl+Enter 		Insert line below
+Ctrl+Shift+Enter 	Insert line above
+
+
+
+
+Ctrl+Shift+L 		Select all occurrences of current selection
+Ctrl+F2 		Select all occurrences of current word
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
