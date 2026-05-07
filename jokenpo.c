@@ -11,7 +11,7 @@ int main(){
     printf("\n\n\n\nJOGO DE JOKENPÔ\n\nVocê jogará contra o computador!\n\nEscolha: \n1 - Pedra\n2 - Papel\n3 - Tesoura\n\nDigite sua escolhe e tecle enter:");
     scanf("%d", &escolhaJogador);
 
-
+    // Também possível utilizar OPERADORES LÓGICOS &&(e) e ||(ou) - ex: if ((escolhaJogador == 1) && (escolhaComputador == 2) ...
     switch (escolhaJogador){
         case 1:
             if (escolhaComputador == 2) { printf("\n\nO computador escolheu Papel, você perdeu!\n\n\n");
